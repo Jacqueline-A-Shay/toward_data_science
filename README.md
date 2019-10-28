@@ -5,4 +5,3 @@
 > Objective - gain better foundation pt. 1 - construct structured datasets to facilitate downstream analysis
 >
 > practice preparing/ wrangling messy dataset in a standardized way
->
